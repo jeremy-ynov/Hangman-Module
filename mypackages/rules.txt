@@ -1,0 +1,111 @@
+🥖  Début du jeu! 🥖
+Ce n'est pas une lettre
+Vous avez deja essayé avec cette lettre !
+Cette lettre n'est pas dans le mot !
+Vous avez perdu, José est mort !
+Vous avez perdu, Josette est mort !
+Le mot était :
+Vous avez gagné!
+Le mot trouvé est :
+José a été sauvé !
+Josette a été sauvé !
+tentatives restantes
+tentative restante
+Vous avez fini la manche
+Voulez-vous continuer ? O/N
+O
+o
+Vous avez fait :
+manches
+Fin du jeu !
+Votre ratio de victoire est de :
+
+🫖  Start the game!  🫖
+this is not a letter
+This letter has already being gest !
+This letter is not in the word !
+You lose, Jose was doomed !
+You lose, Josette was doomed !
+The word was :
+You won !
+The word to find was :
+jose is saved !
+josette is saved !
+attempts remaining
+attempt remaining
+You finished the game!
+Play again ? Y/N
+Y
+y
+You've played for :
+rounds
+End of the game !
+Your win rate is :
+
+🍺  Beginn des Spiels !  🍺
+Es ist kein Brief
+Mit diesem Brief haben Sie es bereits versucht!
+Dieser Brief ist nicht im Wort!
+Du hast verloren, Jose ist tot!
+Du hast verloren, Josette ist tot!
+Das Wort war :
+Du hast gewonnen!
+Das gefundene Wort ist:
+Jose wurde gerettet!
+Josette wurde gerettet!
+verbleibende Versuche
+verbleibender Versuch
+Du hast die Runde beendet
+Möchtest du fortfahren? J/N
+J
+j
+Du hast gespielt :
+Runden
+Ende des Spiels !
+Ihre Gewinnquote beträgt :
+
+💃 ¡Comienza el juego! 🕺
+No es una carta
+¡Ya lo has probado con esta carta!
+¡Esta carta no está en la palabra!
+¡Perdiste, Jose está muerto!
+¡Perdiste, Josette está muerto!
+La palabra era :
+¡Habéis ganado!
+La palabra encontrada es :
+¡Jose se salvó!
+¡Josette se salvó!
+intentos restantes
+intento restante
+Has terminado la ronda
+¿Quieres continuar? S/N
+S
+s
+Has jugado durante :
+rondas
+Fin del juego !
+tu ratio de ganancias es :
+
+🤌  Inizio del gioco! 🤌
+Non è una lettera
+Hai già provato con questa lettera!
+Questa lettera non è nella parola!
+Hai perso, José è morto!
+Hai perso, Josette è morto!
+La parola era :
+Hai vinto!
+La parola trovata è :
+José è stato salvato!
+Josette è stato salvato!
+tentativi rimanenti
+tentativo rimanente
+Hai finito il round
+Vuoi continuare? S/N
+S
+s
+Hai giocato per :
+round
+Fine del gioco!
+la tua percentuale di vincita è :
+
+fin
